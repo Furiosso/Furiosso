@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furiosso</h1>
 <h3 align="center">A late but determined vocation developer from Madrid</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furiosso&label=Profile%20views&color=0e75b6&style=flat" alt="furiosso" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furiosso" alt="furiosso" /></a> </p>
-
 - 🌱 I’m currently learning **in 42 Madrid**
 
 - 📫 How to reach me **dgimenodemanuel@gmail.com**
